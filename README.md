@@ -23,4 +23,10 @@
     <td><img src="https://i.imgur.com/2aXypaP.png" width="200" height="400"/></td>
   </tr>
 </table>
-<p></p>
+<p>On top of the tracking features. The app provides detailed information about all alerts across Go Transit so you will always be in the loop:</p>
+<table style="border: none;">
+  <tr>
+    <td><img src="https://i.imgur.com/30xmdAA.png" width="200" height="400"/></td>
+    <td><img src="https://i.imgur.com/bZ9WjqA.png" width="200" height="400"/></td>
+  </tr>
+</table>
