@@ -10,14 +10,14 @@
   <li>Quick ticket purchase buttons to be redirected to purchase the corresponding E-Ticket</li>
   <li>Any alerts that affect the current trip being tracked</li>
 </ul>
-<table>
+<table style="border: none;">
   <tr>
     <td><img src="https://i.imgur.com/EAIdm3T.png" width="200" height="400"/></td>
     <td><img src="https://i.imgur.com/T2n8S0R.png" width="200" height="400"/></td>
   </tr>
 </table>
 <p>Easily find your selected trip whether it's a train or a bus and lay out the trip on the map giving stop details, and a better understanding of the trip:</p>
-<table style="border-width: 0">
+<table style="border: none;">
   <tr>
     <td><img src="https://i.imgur.com/uuaRtD4.png" width="200" height="400"/></td>
     <td><img src="https://i.imgur.com/2aXypaP.png" width="200" height="400"/></td>
