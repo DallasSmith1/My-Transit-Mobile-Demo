@@ -17,9 +17,10 @@
   </tr>
 </table>
 <p>Easily find your selected trip whether it's a train or a bus and lay out the trip on the map giving stop details, and a better understanding of the trip:</p>
-<table>
+<table style="border-width: 0">
   <tr>
     <td><img src="https://i.imgur.com/uuaRtD4.png" width="200" height="400"/></td>
     <td><img src="https://i.imgur.com/2aXypaP.png" width="200" height="400"/></td>
   </tr>
 </table>
+<p></p>
