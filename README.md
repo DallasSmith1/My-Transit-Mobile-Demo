@@ -12,12 +12,10 @@
   <li>Any alerts that affect the current trip being tracked</li>
 </ul>
 <img src="https://i.imgur.com/T2n8S0R.png" width="200" height="400"/>
-<p>The app provides live alert feeds across the entire service including facilities and/or lines being out of service, future events, and scheduled construction. All alerts are easily accessible on the Alerts tab in the app:</p>
-<img src="https://i.imgur.com/FvnwzWx.png" width="500" height="300"/>
-<p>The main feature of the app is live tracking. The app can track a bus or train and provide live GPS pings to display to users. The tracking board also displays other information such as</p>
-<img src="https://i.imgur.com/KD24Qq2.png" width="500" height="300"/>
-<p>I created this desktop application solely for personal use and sharing with friends and family, with no intention of publishing it. The project served as a learning opportunity to master Tauri, explore new desktop application development methods, satisfy my curiosity, and broaden my expertise.</p>
-<hr/>
-<h3>Installation</h3>
-<p>You will need to have Tauri installed to be able to run this application in visual studio code and play around with it. </p>
-<p>There is also an installer (exe) file for this application as well for anyone to use, if you are interested in installing this application and playing around with it, contact me (dallasagsmith@gmail.com) and I will give you access to the installer file.</p>
+<p>Easily find your selected trip whether it's a train or a bus and lays out the trip on the map giving stop details, and a better understanding of the trip:</p>
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/uuaRtD4.png" width="200" height="400"/></td>
+    <td><img src="https://i.imgur.com/2aXypaP.png" width="200" height="400"/></td>
+  </tr>
+</table>
